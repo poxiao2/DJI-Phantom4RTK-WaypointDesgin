@@ -6,7 +6,7 @@ python 3.x (the python version I used is 3.5 or higher)<br>
 numpy<br>
 matplotlib
 
-## Useage
+## Usage
 **you'd better to run the "computeWayPointsCoords.py" in the commandline:**
 ```
 cd root_path (where you save the "computeWayPointsCoords.py" and other scripts)
