@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2">
+		<Document>
+			<name>X2.kml</name>
+			<open>1</open>
+			<ExtendedData xmlns:mis="www.dji.com">
+				<mis:type>Waypoint</mis:type>
+			</ExtendedData>
+			<Style id="waylineGreenPoly">
+				<LineStyle>
+					<color>FF0AEE8B</color>
+					<width>6</width>
+				</LineStyle>
+			</Style>
+			<Style id="waypointStyle">
+				<IconStyle>
+					<Icon>
+						<href>https://cdnen.dji-flighthub.com/static/app/images/point.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Folder>
+				<name>Waypoints</name>
+				<description>Waypoints in the Mission</description>
+				<Placemark>
+					<name>Waypoint1</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>180</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.2210422442276,39.821699801148426,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint2</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-150</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22107142498149,39.82169371236567,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint3</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-120</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22109274810283,39.821677188761804,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint4</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-90</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.2211005000786,39.82165465782842,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint5</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-60</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22109260378531,39.821632156713534,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint6</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-30</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22107117504035,39.82161571457,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint7</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>0</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22104195565856,39.82160973705157,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint8</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>29</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22101277493752,39.8216158258269,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint9</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>59</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22099145181585,39.82163234941626,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint10</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>90</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22098369980691,39.821654880342535,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint11</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>119</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22099159606735,39.82167738146484,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint12</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>149</mis:heading>
+						<mis:gimbalPitch>0</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22101302481262,39.82169382362289,100.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint13</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>180</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22104222489709,39.82169376799796,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint14</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-135</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22107795094651,39.82168227734895,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint15</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-90</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22109267594402,39.82165467273771,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint16</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-45</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.2210777742062,39.821627124578725,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint17</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>0</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22104197498898,39.82161577020212,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint18</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>45</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22100624896791,39.8216272608401,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint19</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>90</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22099152394156,39.82165486544059,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint20</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>135</mis:heading>
+						<mis:gimbalPitch>-29</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22100642565104,39.821682413610596,102.64499999999998</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint21</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>180</mis:heading>
+						<mis:gimbalPitch>-59</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22104217208522,39.82167728512434,104.47512701892218</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint22</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-120</mis:heading>
+						<mis:gimbalPitch>-59</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22106742401877,39.821665978933765,104.47512701892218</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint23</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>-60</mis:heading>
+						<mis:gimbalPitch>-59</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22106735186826,39.821643462909606,104.47512701892218</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint24</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>0</mis:heading>
+						<mis:gimbalPitch>-59</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.2210420278007,39.82163225307592,104.47512701892218</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint25</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>59</mis:heading>
+						<mis:gimbalPitch>-59</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22101677587527,39.82164355926101,104.47512701892218</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint26</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>119</mis:heading>
+						<mis:gimbalPitch>-59</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22101684800927,39.82166607528525,104.47512701892218</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Waypoint27</name>
+					<visibility>1</visibility>
+					<description>Waypoint</description>
+					<styleUrl>#waypointStyle</styleUrl>
+					<ExtendedData xmlns:mis="www.dji.com">
+						<mis:useWaylineAltitude>false</mis:useWaylineAltitude>
+						<mis:turnMode>Auto</mis:turnMode>
+						<mis:heading>119</mis:heading>
+						<mis:gimbalPitch>-90</mis:gimbalPitch>
+						<mis:actions>ShootPhoto</mis:actions>
+					</ExtendedData>
+					<Point>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>114.22104209994292,39.82165476910017,105.14499999999998</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Placemark>
+				<name>Wayline</name>
+				<description>Wayline</description>
+				<visibility>1</visibility>
+				<ExtendedData xmlns:mis="www.dji.com">
+					<mis:altitude>50</mis:altitude>
+					<mis:autoFlightSpeed>1</mis:autoFlightSpeed>
+					<mis:actionOnFinish>Hover</mis:actionOnFinish>
+					<mis:headingMode>UsePointSetting</mis:headingMode>
+					<mis:gimbalPitchMode>UsePointSetting</mis:gimbalPitchMode>
+				</ExtendedData>
+				<styleUrl>#waylineGreenPoly</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>114.2210422442276,39.821699801148426,100.14499999999998
+114.22107142498149,39.82169371236567,100.14499999999998
+114.22109274810283,39.821677188761804,100.14499999999998
+114.2211005000786,39.82165465782842,100.14499999999998
+114.22109260378531,39.821632156713534,100.14499999999998
+114.22107117504035,39.82161571457,100.14499999999998
+114.22104195565856,39.82160973705157,100.14499999999998
+114.22101277493752,39.8216158258269,100.14499999999998
+114.22099145181585,39.82163234941626,100.14499999999998
+114.22098369980691,39.821654880342535,100.14499999999998
+114.22099159606735,39.82167738146484,100.14499999999998
+114.22101302481262,39.82169382362289,100.14499999999998
+114.22104222489709,39.82169376799796,102.64499999999998
+114.22107795094651,39.82168227734895,102.64499999999998
+114.22109267594402,39.82165467273771,102.64499999999998
+114.2210777742062,39.821627124578725,102.64499999999998
+114.22104197498898,39.82161577020212,102.64499999999998
+114.22100624896791,39.8216272608401,102.64499999999998
+114.22099152394156,39.82165486544059,102.64499999999998
+114.22100642565104,39.821682413610596,102.64499999999998
+114.22104217208522,39.82167728512434,104.47512701892218
+114.22106742401877,39.821665978933765,104.47512701892218
+114.22106735186826,39.821643462909606,104.47512701892218
+114.2210420278007,39.82163225307592,104.47512701892218
+114.22101677587527,39.82164355926101,104.47512701892218
+114.22101684800927,39.82166607528525,104.47512701892218
+114.22104209994292,39.82165476910017,105.14499999999998
+</coordinates>
+				</LineString>
+			</Placemark>
+		</Document>
+	</kml>
